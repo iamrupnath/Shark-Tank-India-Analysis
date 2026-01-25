@@ -121,5 +121,5 @@ Each row represents **one pitch**.
 
 **Rupnath**
 
-Aspiring Data Analyst | Python | Data Visualization
+Data Analyst | Python | Data Visualization
 
